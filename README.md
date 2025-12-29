@@ -10,7 +10,7 @@ Hello world this is my profile
 <img width="1103" height="352" alt="image" src="https://github.com/user-attachments/assets/59a2aa76-f01d-4da4-a6e3-52813f6646cb" />
 <img width="1088" height="606" alt="image" src="https://github.com/user-attachments/assets/4e5f96f2-4b04-4798-a5b3-b00e0cba71a1" />
 <img width="1242" height="504" alt="image" src="https://github.com/user-attachments/assets/e9f71d5d-fc03-48e6-8346-60cd546ef7e8" />
-<img width="1091" height="560" alt="image" src="https://github.com/user-attachments/assets/f5eb42f1-4a0f-4b61-9a26-2bafb7b274f8" />
+<img width="1067" height="539" alt="image" src="https://github.com/user-attachments/assets/b59a0766-b98c-48d6-8b7b-ac9a24b7c8a9" />
 <img width="1122" height="114" alt="image" src="https://github.com/user-attachments/assets/8fc79bc2-8a04-41f2-aee8-2d44aefeb8a3" />
 
 
